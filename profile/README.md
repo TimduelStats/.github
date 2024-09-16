@@ -8,7 +8,7 @@ Welcome to **Timduel Stats**, your comprehensive sports data platform that conso
 
 - **MLB:**
   - Game Schedule
-  - Home Run Odds
+  - Home Run Odds Movement
   - Player Stats
   - Home Run Prediction
 
