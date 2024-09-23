@@ -27,7 +27,7 @@ Welcome to **Timduel Stats**, your comprehensive sports data platform that conso
 
 ## Deployment
 ```
-https://timduel-stats.vercel.app/mlb/schedule
+https://timduel-stats.vercel.app/
 ```
 
 
